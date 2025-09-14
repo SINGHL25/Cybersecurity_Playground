@@ -1,4 +1,6 @@
 # Cybersecurity_Playground
+<img width="1024" height="1024" alt="Gemini_Generated_Image_8nh6sv8nh6sv8nh6" src="https://github.com/user-attachments/assets/e88c327d-1629-4259-b0db-0516858e4382" />
+
 ```PLAIN TEXT
 Cybersecurity_Playground/
 │
